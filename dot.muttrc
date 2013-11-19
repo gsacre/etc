@@ -1,0 +1,38 @@
+# Personal headers
+source ~/.mutt/headers
+
+# Personal folders
+source ~/.mutt/folders
+
+source ~/.mutt/muttrc.mailboxes
+
+# Headers to ignore
+source ~/.mutt/ignores
+
+# Settings
+source ~/.mutt/settings
+
+# Formats
+source ~/.mutt/formats
+
+# E-Mail Aliases
+# set alias_file=~/.mutt/aliases
+source ~/.mutt/aliases
+
+# Macros
+source ~/.mutt/macros
+
+# Message scoring
+source ~/.mutt/scoring
+
+# Colours
+source ~/.mutt/colours
+
+# Keybindings
+source ~/.mutt/keybindings
+
+# New GnuPG stuff for Mutt 1.2+
+#source ~/.mutt/gpg.rc
+
+# Hooks
+source ~/.mutt/hooks
